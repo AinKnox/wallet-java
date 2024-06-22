@@ -1,0 +1,11 @@
+com\example\wallet_java\model\Wallet.class
+com\example\wallet_java\exception\InsufficientFundsException.class
+com\example\wallet_java\service\WalletService.class
+com\example\wallet_java\repository\TransactionRepository.class
+com\example\wallet_java\dto\WalletRequest.class
+com\example\wallet_java\model\OperationType.class
+com\example\wallet_java\exception\WalletNotFoundException.class
+com\example\wallet_java\model\Transaction.class
+com\example\wallet_java\WalletJavaApplication.class
+com\example\wallet_java\controller\WalletController.class
+com\example\wallet_java\repository\WalletRepository.class
